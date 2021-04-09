@@ -1,6 +1,6 @@
 ﻿using AstroMath;
 using System;
-using TheSkyXLib;
+using TheSky64Lib;
 
 namespace PointAndShoot
 {

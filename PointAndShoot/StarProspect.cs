@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
-using TheSkyXLib;
+using TheSky64Lib;
 
 namespace PointAndShoot
 {

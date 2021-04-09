@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using TheSkyXLib;
+using TheSky64Lib;
 
 namespace PointAndShoot
 {
