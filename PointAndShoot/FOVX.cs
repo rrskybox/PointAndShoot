@@ -48,7 +48,7 @@ namespace PointAndShoot
         public FOVX()
         {
 
-            fovdir = "C:\\Users\\" + System.Environment.UserName + "\\Documents\\Software Bisque\\TheSky64 Professional Edition\\Field of View Indicators";
+            fovdir = "C:\\Users\\" + System.Environment.UserName + "\\Documents\\Software Bisque\\TheSky Professional Edition 64\\Field of View Indicators";
             fovfile = fovdir + "\\My Equipment.txt";
             fovXfile = fovdir + "\\My Equipment.xml";
             System.IO.TextReader fovDataFile = System.IO.File.OpenText(fovfile);
